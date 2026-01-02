@@ -1,0 +1,9 @@
+Welcome to ZynqOS - Browser Micro Runtime
+Features:
+- Virtual File System (IndexedDB)
+- WASI Terminal
+- Zynqpad
+- Calculator (WASM)
+- Python (Pyodide)
+
+Try running: run /apps/wasm/terminal-wasi.wasm
