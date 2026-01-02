@@ -1,0 +1,4 @@
+Welcome to ZynqOS!
+
+This is a sample text file stored in IndexedDB.
+You can edit it with the Zynqpad app.
